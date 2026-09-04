@@ -1,4 +1,6 @@
-# Restaurante Bradesco — piloto
+# Restaurante Bradesco — piloto (build)
 
-Build estático publicado via GitHub Pages.
-Código-fonte: repositório privado `emiolo/emiolo-bradesco-restaurante`.
+Site publicado em https://emiolo.github.io/restaurante-bradesco/
+servido pelo repositorio emiolo/emiolo.github.io (pasta restaurante-bradesco).
+
+Codigo-fonte: repositorio privado emiolo/emiolo-bradesco-restaurante.
